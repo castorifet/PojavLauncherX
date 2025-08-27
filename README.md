@@ -1,8 +1,5 @@
-# PojavLauncher for iOS
-[![Development build](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/actions/workflows/development.yml/badge.svg?branch=main)](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/actions/workflows/development.yml)
-[![Crowdin](https://badges.crowdin.net/pojavlauncher/localized.svg)](https://crowdin.com/project/pojavlauncher)
-[![Discord](https://img.shields.io/discord/724163890803638273.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pojavlauncher-724163890803638273)
-
+# PojavLauncherX
+PojavLauncher + improvements.
 
 ## NOTE
 This repository is a fork of PojavLauncher,The Official PojavLauncher is archived.
@@ -12,6 +9,18 @@ I do not have that much time to modify the code everyday,If you have some code m
 這個Repository是PojavLauncher之fork。官方之PojavLauncher已全歸檔。
 將來有一些可能的改進或更新。
 我沒有很多時間去每天修改代碼，貴方如有代碼改正，隨時打開pull request。
+
+# Build your self
+Since I do not have Xcode currently (No Mac,only Hackintosh,Xcode not working on Hackintosh),You need to download the repo and compile it yourself using xcode.
+Releases will be avaliable in around October.
+
+
+# Limitation
+iOS/iPadOS 26 can not run PojavLauncher.This is because apple has modified some code that killed JIT which is required by PojavLauncher.
+
+
+# TrollStore
+Yes,PojavLauncher works with TrollStore.There is no need to enable JIT for PojavLauncher installed using TrollStore since there is already JIT.
 
 ## Introduction
 PojavLauncher is a Minecraft: Java Edition launcher for Android, iOS, and iPadOS, based off of zhuowei's [Boardwalk](https://github.com/zhuowei/Boardwalk) project.

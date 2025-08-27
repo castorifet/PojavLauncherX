@@ -4,6 +4,10 @@
 [![Discord](https://img.shields.io/discord/724163890803638273.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pojavlauncher-724163890803638273)
 
 
+## NOTE
+This repository is a fork of PojavLauncher,The Official PojavLauncher is archived.
+There may be some improvement in the near future.
+I do not have that much time to modify the code everyday,If you have some code modified,feel free to open a pull request.
 
 ## Introduction
 PojavLauncher is a Minecraft: Java Edition launcher for Android, iOS, and iPadOS, based off of zhuowei's [Boardwalk](https://github.com/zhuowei/Boardwalk) project.

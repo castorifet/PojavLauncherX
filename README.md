@@ -8,6 +8,10 @@
 This repository is a fork of PojavLauncher,The Official PojavLauncher is archived.
 There may be some improvement in the near future.
 I do not have that much time to modify the code everyday,If you have some code modified,feel free to open a pull request.
+## 注意
+這個Repository是PojavLauncher之fork。官方之PojavLauncher已全歸檔。
+將來有一些可能的改進或更新。
+我沒有很多時間去每天修改代碼，貴方如有代碼改正，隨時打開pull request。
 
 ## Introduction
 PojavLauncher is a Minecraft: Java Edition launcher for Android, iOS, and iPadOS, based off of zhuowei's [Boardwalk](https://github.com/zhuowei/Boardwalk) project.
